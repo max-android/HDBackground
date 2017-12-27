@@ -1,0 +1,253 @@
+{
+  "list":[
+
+    {
+  "title":"Природа",
+  "tabs":[
+    {
+      "title":"Пейзаж",
+      "argument": "kanikumina"
+    },{
+      "title":"Море",
+      "argument": "pedromgabriel"
+    },{
+      "title":"Космос",
+      "argument": "just--space"
+    },{
+      "title":"Цветы",
+      "argument": "uyamt"
+    },{
+      "title":"Небо",
+      "argument": "myoursky"
+    }
+
+  ]
+},{
+  "title":"Техника",
+  "tabs":[
+    {
+      "title":"Автомобили",
+      "argument": "karfavour"
+    },{
+      "title":"Мотоциклы",
+      "argument": "chopperfun"
+    },{
+      "title":"Внедорожники",
+      "argument": "ramtrucks"
+    },{
+      "title":"Самолёты",
+      "argument": "fuckyeahaircraft"
+    }
+  ]
+},{
+  "title":"Животные",
+  "tabs":[
+    {
+      "title":"Животные",
+      "argument": "animals"
+    },
+    {
+    "title":"Морские",
+    "argument": "thelovelyseas"
+  },
+
+    {
+      "title":"Кошки",
+      "argument": "catsofinstagram"
+    },
+
+  {
+      "title":"Собаки",
+      "argument": "hypedogs"
+    },
+
+    {
+      "title":"Лошади",
+      "argument": "toknow-thearabian"
+    },{
+      "title":"Пауки",
+      "argument": "spiders-spiders-spiders"
+    }
+  ]
+},{
+  "title":"Архитектура",
+  "tabs":[
+    {
+      "title":"Архитектура",
+      "argument": "najasarquitectos"
+    },{
+      "title":"Концепт",
+      "argument": "architecturalrenders-blog-blog"
+    },
+
+    {
+      "title":"Современная",
+      "argument": "finearchitecture"
+    },
+
+    {
+      "title":"Древности",
+      "argument": "archaeoart"
+    },{
+      "title":"Города",
+      "argument": "architecture-city"
+    },{
+      "title":"Модерн",
+      "argument": "archivemodernarchitecture"
+    }, {
+      "title":"Прованс",
+      "argument": "linatraikoudi"
+    }
+  ]
+},{
+  "title":"Искусство",
+  "tabs":[
+    {
+      "title":"Digital Art",
+      "argument": "wahndur"
+    },{
+      "title":"Абстракция",
+      "argument": "abstraction"
+    },{
+      "title":"Сюрреализм",
+      "argument": "surreelust"
+    },{
+      "title":"Живопись",
+      "argument": "leonellystuff"
+    },{
+      "title":"Скульптура",
+      "argument": "stone-art"
+    }
+  ]
+},{
+  "title":"Фон",
+  "tabs":[
+    {
+      "title":"Рисунок",
+      "argument": "littleoil"
+    }, {
+      "title":"Текстуры",
+      "argument": "lostandtakengallery"
+    }, {
+      "title":"Фото",
+      "argument": "lewerta"
+    }, {
+      "title":"Фон",
+      "argument": "androidbackgrounds"
+    }, {
+      "title":"Чёрно-белое",
+      "argument": "absinthundblut"
+    }, {
+      "title":"Поп-арт",
+      "argument": "andywarhol-legend"
+    }
+  ]
+},{
+  "title":"Еда",
+  "tabs":[
+    {
+      "title":"Фрукты",
+      "argument": "fruits"
+    },
+
+    {
+      "title":"Сладости",
+      "argument": "chocolateguru"
+    },
+
+    {
+      "title":"Напитки",
+      "argument": "acocktailmoment"
+    },{
+      "title":"Суши",
+      "argument": "idreamofsushi"
+    },{
+      "title":"Торты",
+      "argument": "pastrycorner"
+    }
+  ]
+},{
+  "title":"Времена года",
+  "tabs":[
+    {
+      "title":"Времена года",
+      "argument": "seasonal-bitch"
+    },{
+      "title":"Весна",
+      "argument": "tulipsinholland"
+    },{
+      "title":"Лето",
+      "argument": "livingyoungwildfree"
+    },{
+      "title":"Осень",
+      "argument": "autumn-fireside"
+    },{
+      "title":"Зима",
+      "argument": "mostwonderful-time"
+    }
+  ]
+},{
+  "title":"Праздники",
+  "tabs":[
+    {
+      "title":"Новый год",
+      "argument": "christmasallthetime"
+    },{
+      "title":"Рождество",
+      "argument": "wintercozy"
+    }, {
+      "title":"Хеллоуин",
+      "argument": "h-a-l-l-o-w-e-e-n"
+    }
+  ]
+},{
+  "title":"Религия",
+
+  "tabs":[
+    {
+      "title":"Религия",
+      "argument": "religions-of-the-world"
+    },{
+      "title":"Христианство",
+      "argument": "orthodoxthoughts"
+    },{
+      "title":"Православие",
+      "argument": "russianorthodox"
+
+    },{
+      "title":"Католицизм",
+      "argument": "late-have-i-loved-thee"
+    },{
+      "title":"Ислам",
+      "argument": "islamandart"
+    }
+  ]
+}, {
+  "title":"Аниме",
+
+  "tabs":[
+    {
+      "title":"Аниме",
+      "argument": "anime-wallpapers"
+    }
+  ]
+},{
+  "title":"Знаменитости",
+  "tabs":[
+    {
+      "title":"Знаменитости",
+      "argument": "celebritiesphotosandnews"
+    }
+  ]
+},{
+  "title":"Бренды",
+  "tabs":[
+    {
+      "title":"Бренды",
+      "argument": "beautifulbrands"
+    }
+  ]
+
+}
+
+]}

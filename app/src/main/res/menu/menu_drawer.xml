@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_nature"
+            android:title="@string/nature"
+            android:checked="true"
+                       />
+        <item
+            android:id="@+id/nav_tech"
+            android:title="@string/tech"
+            />
+
+           <item
+            android:id="@+id/nav_animals"
+            android:title="@string/animals"
+            />
+        <item
+            android:id="@+id/nav_arch"
+            android:title="@string/arch"
+            />
+        <item
+            android:id="@+id/nav_art"
+            android:title="@string/art"
+            />
+        <item
+            android:id="@+id/nav_background"
+            android:title="@string/background"
+            />
+        <item
+            android:id="@+id/nav_eat"
+            android:title="@string/eat"
+            />
+        <item
+            android:id="@+id/nav_seasons"
+            android:title="@string/seasons"
+            />
+        <item
+            android:id="@+id/nav_holidays"
+            android:title="@string/holidays"
+            />
+        <item
+            android:id="@+id/nav_religion"
+            android:title="@string/religion"
+            />
+        <item
+            android:id="@+id/nav_anime"
+            android:title="@string/anime"
+            />
+        <item
+            android:id="@+id/nav_celebrities"
+            android:title="@string/celebrities"
+            />
+        <item
+            android:id="@+id/nav_brands"
+            android:title="@string/brands"
+            />
+
+
+    </group>
+
+</menu>
