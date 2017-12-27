@@ -10,6 +10,10 @@ import java.util.List;
 
 public class DataHolder {
 
+
+    private DataHolder() {
+    }
+
     private static DataHolder dataHolder;
 
         private static List<HDBackgrounds> dataList=new ArrayList<>();;
@@ -29,10 +33,5 @@ public class DataHolder {
             return dataHolder;
     }
 
-public static void destroyHolder(){
-    if (dataHolder != null){
-
-        dataHolder=null;
-    }}
 
 }

@@ -30,6 +30,7 @@ public class Constants {
     public static final String FORMAT = ".jpg";
     public static final String NAME_DIRECTORY = "/MyHDBackgrounds";
 
+
     //classified api
     //public static String THE_END_URL = "api_key" ;
 
